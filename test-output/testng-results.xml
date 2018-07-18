@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="74" started-at="2018-07-18T18:58:41Z" finished-at="2018-07-18T18:58:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="74" started-at="2018-07-18T18:58:41Z" finished-at="2018-07-18T18:58:41Z">
+      <class name="com.kabir.car.test.CarTest">
+        <test-method status="PASS" signature="findcars()[pri:0, instance:com.kabir.car.test.CarTest@46d56d67]" name="findcars" is-config="true" duration-ms="43" started-at="2018-07-18T18:58:41Z" finished-at="2018-07-18T18:58:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findcars -->
+        <test-method status="PASS" signature="CarMakeTest()[pri:0, instance:com.kabir.car.test.CarTest@46d56d67]" name="CarMakeTest" duration-ms="5" started-at="2018-07-18T18:58:41Z" finished-at="2018-07-18T18:58:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CarMakeTest -->
+        <test-method status="PASS" signature="LowetRentalCar()[pri:0, instance:com.kabir.car.test.CarTest@46d56d67]" name="LowetRentalCar" duration-ms="5" started-at="2018-07-18T18:58:41Z" finished-at="2018-07-18T18:58:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LowetRentalCar -->
+        <test-method status="PASS" signature="LowetRentalCarWithDiscount()[pri:0, instance:com.kabir.car.test.CarTest@46d56d67]" name="LowetRentalCarWithDiscount" duration-ms="2" started-at="2018-07-18T18:58:41Z" finished-at="2018-07-18T18:58:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LowetRentalCarWithDiscount -->
+        <test-method status="PASS" signature="highestRevenuecars()[pri:0, instance:com.kabir.car.test.CarTest@46d56d67]" name="highestRevenuecars" duration-ms="1" started-at="2018-07-18T18:58:41Z" finished-at="2018-07-18T18:58:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- highestRevenuecars -->
+      </class> <!-- com.kabir.car.test.CarTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

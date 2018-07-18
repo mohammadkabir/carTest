@@ -1,0 +1,46 @@
+{
+    "Car": [{
+            "make": "Audi",
+            "model": "A7",
+            "vin": "09AGHY64352JITEG98K",
+            "metadata": {
+                "Color": "Black",
+                "Notes": "Scratches on the front side of the car"
+            },
+            "perdayrent": {
+                "Price": 140,
+                "Discount": 15
+            },
+            "metrics": {
+                "yoymaintenancecost": 2190.76,
+                "depreciation": 2256.43,
+                "rentalcount": {
+                    "lastweek": 4,
+                    "yeartodate": 221
+                }
+            }
+        },
+        {
+            "make": "Tesla",
+            "model": "S100",
+            "vin": "09GAHY11992JITEG98K",
+            "metadata": {
+                "Color": "Blue",
+                "Notes": "Scratches on the left side of the car"
+            },
+            "perdayrent": {
+                "Price": 240,
+                "Discount": 125
+            },
+            "metrics": {
+                "yoymaintenancecost": 2290.76,
+                "depreciation": 2256.43,
+                "rentalcount": {
+                    "lastweek": 2,
+                    "yeartodate": 321
+                }
+            }
+        }
+ 
+    ]
+}
